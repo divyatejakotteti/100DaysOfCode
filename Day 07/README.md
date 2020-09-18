@@ -13,6 +13,3 @@
 </body>
 <p>Read more about problems here: <a hrerf='https://www.hackerrank.com/interview/interview-preparation-kit'>https://www.hackerrank.com/interview/interview-preparation-kit</a></p>
 </html>
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1NTIzMDEyNF19
--->
