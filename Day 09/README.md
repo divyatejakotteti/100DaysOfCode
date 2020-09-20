@@ -4,7 +4,7 @@
 <h1>#100DaysOfCode Challenge</h1>
 <h2>Day 08 Quick Overview</h2>
 <p>Solved  from HackerRank </p>
-<p>1. <a href="Birthdaychocolate.py">BirthdayChocolate.py</a></p>
+<p>1. <a href="BirthdayChocolate.py">BirthdayChocolate.py</a></p>
 <p>2. <a href='BreakingRecords.py'>BreakingRecords.py</a></p>
 <p>3. <a href='DivisibleSumPairs.py'>DivisibleSumPairs.py</a></p>
 </body>
