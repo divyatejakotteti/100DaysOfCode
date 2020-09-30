@@ -48,15 +48,18 @@ def print_formatted(number):
     for i in range(1, n+1):
         decimal = str(i)
         octal = str(oct(i)[2:])
-        hex_ = str(hex(i)[2:]).upper()
+        hex = str(hex(i)[2:]).upper()
         binary = str(bin(i)[2:])
 
-        results.append([decimal, octal, hex_, binary])
+        results.append([decimal, octal, hex, binary])
    
-    width = len(results[-1][3])  # largest binary number
+    width = len(results[-1,3])  
 
     for i in results:
         print(*(j.rjust(width) for j in i))
 
 
 if __name__ == '__main__':
+    number=input()
+    print_formatted()
+    
